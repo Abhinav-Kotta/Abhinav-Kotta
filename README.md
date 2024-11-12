@@ -6,12 +6,16 @@ I'm a musician, software developer, AI enthusiast, and lifelong learner, passion
 [![GitHub followers](https://img.shields.io/github/followers/Abhinav-Kotta?label=Follow&style=social)](https://github.com/Abhinav-Kotta)
 
 ## 🛠️ Technologies & Tools
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=sqlite&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
+
 
 
 ## 📊 GitHub Stats
