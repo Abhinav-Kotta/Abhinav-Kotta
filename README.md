@@ -1,10 +1,9 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Abhinav
 
 ## 🚀 About Me
-Software developer passionate about [Your Interests]. Currently working on [Current Project/Focus].
+Software developer passionate about AI, Research, and Full stack development. Currently working on a [Behavior Tree Generation](https://github.com/Abhinav-Kotta/Behavior-Tree-Generation) research project.
 
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social)](https://github.com/YOUR_USERNAME)
-[![Twitter](https://img.shields.io/twitter/follow/YOUR_TWITTER?label=Follow&style=social)](https://twitter.com/YOUR_TWITTER)
+[![GitHub followers](https://img.shields.io/github/followers/Abhinav-Kotta?label=Follow&style=social)](https://github.com/Abhinav-Kotta)
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
