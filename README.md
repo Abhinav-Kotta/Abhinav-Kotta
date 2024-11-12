@@ -21,7 +21,7 @@ Software developer passionate about AI, Research, and Full stack development. Cu
 ## 💻 Featured Projects
 
 ### 🌟 [Behavior Tree Generator](https://github.com/YOUR_USERNAME/project1)
-A brief description of your project and what problem it solves.
+This project is in collaboration with Lockheed Martin where the goal is to shorten the amount of time it takes to generate behavior trees for the simulation of different military scenarios. This includes the usage of CodeLlama to generate behavior trees so developers can use it as template to integrate them into their workflow.
 
 **Tech Stack:**
 - Frontend: React, TypeScript
@@ -38,7 +38,7 @@ A brief description of your project and what problem it solves.
 
 ---
 ### 🚀 [Process Scheduler Scheduler Simulator](https://github.com/Abhinav-Kotta/Process-Scheduler-Simulator/tree/main)
-What makes this project special and what you learned while building it.
+I've seen many implmenetation of different scheduler algorithms, but I wanted to take it to the next level, which resulted in the development of a full stack application for this project.
 
 **Tech Stack:**
 - Frontend: React.js
@@ -67,19 +67,14 @@ This website is for a client that specializes in the warehousing business. They 
 ---
 
 ## 📫 How to reach me
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR_USERNAME)
-- 🐦 [Twitter](https://twitter.com/YOUR_USERNAME)
-- 📧 Email: your.email@example.com
+- 💼 [LinkedIn](https://linkedin.com/in/akotta03)
+- 📧 Email: abhinav.kotta@gmail.com
 
 ## 🌱 I'm currently learning
-- Technology 1
-- Technology 2
-- Technology 3
-
-## 💬 Ask me about
-- Topic 1
-- Topic 2
-- Topic 3
+- Unity
+- VR Development
+- Networking
+- Model Finetuning
 
 ---
 ⭐️ From [Abhinav-Kotta](https://github.com/Abhinav-Kotta)
