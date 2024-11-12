@@ -13,14 +13,14 @@ Software developer passionate about AI, Research, and Full stack development. Cu
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhinav-Kotta&show_icons=true&theme=radical)
 
 ## 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-Kotta&theme=dark)](https://git.io/streak-stats)
 
 ## 🎯 Featured Projects
-<a href="https://github.com/YOUR_USERNAME/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project1&theme=radical" />
+<a href="https://github.com/Abhinav-Kotta/project1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinav-KottaE&repo=project1&theme=radical" />
 </a>
 <a href="https://github.com/YOUR_USERNAME/project2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project2&theme=radical" />
