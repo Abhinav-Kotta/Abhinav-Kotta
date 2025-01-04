@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abhinav
 
 ## 🚀 About Me
-I'm a musician, software developer, AI enthusiast, and lifelong learner, passionate about tackling complex problems with both innovative and time-tested techniques. I thrive on solving challenges and continuously pushing my boundaries. Currently, I'm working on an exciting [Behavior Tree Generation](https://github.com/Abhinav-Kotta/Behavior-Tree-Generation) research project - check the details below 👇.
+I'm a software developer, AI enthusiast, musician, and lifelong learner, passionate about tackling complex problems with both innovative and time-tested techniques. I thrive on solving challenges and continuously pushing my boundaries. Currently, I'm working on an exciting [Behavior Tree Generation](https://github.com/Abhinav-Kotta/Behavior-Tree-Generation) research project - check the details below 👇.
 
 [![GitHub followers](https://img.shields.io/github/followers/Abhinav-Kotta?label=Follow&style=social)](https://github.com/Abhinav-Kotta)
 
