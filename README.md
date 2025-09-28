@@ -27,7 +27,7 @@ I'm a software developer, AI enthusiast, musician, and lifelong learner, passion
 
 ## 💻 Featured Projects
 
-### 🌟 [Behavior Tree Generator](https://github.com/YOUR_USERNAME/project1)
+### 🌟 [Behavior Tree Generator](https://github.com/Abhinav-Kotta/Behavior-Tree-Generation)
 This project is in collaboration with Lockheed Martin where the goal is to shorten the amount of time it takes to generate behavior trees for the simulation of different military scenarios. This includes the usage of CodeLlama to generate behavior trees so developers can use it as template to integrate them into their workflow.
 
 **Tech Stack:**
